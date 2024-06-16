@@ -1,0 +1,14 @@
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\bin\Debug\net8.0\Kalay Software Note.exe
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\bin\Debug\net8.0\Kalay Software Note.deps.json
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\bin\Debug\net8.0\Kalay Software Note.runtimeconfig.json
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\bin\Debug\net8.0\Kalay Software Note.dll
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\bin\Debug\net8.0\Kalay Software Note.pdb
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\Kalay Software Note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\Kalay Software Note.AssemblyInfoInputs.cache
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\Kalay Software Note.AssemblyInfo.cs
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\Kalay Software Note.csproj.CoreCompileInputs.cache
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\Kalay Software Note.dll
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\refint\Kalay Software Note.dll
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\Kalay Software Note.pdb
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\Kalay Software Note.genruntimeconfig.cache
+C:\Users\MihtatKalay\source\repos\Kalay Software Note\Kalay Software Note\obj\Debug\net8.0\ref\Kalay Software Note.dll
